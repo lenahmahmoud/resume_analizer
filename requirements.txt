@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart
+pydantic[email]
+pyjwt
+bcrypt
+python-dotenv
+google-genai
+pdfplumber
+python-docx
+numpy
